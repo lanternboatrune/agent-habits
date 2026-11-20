@@ -1,0 +1,7 @@
+node_modules/
+*.log
+scratch/
+dist/
+*.local
+state.json
+.local/

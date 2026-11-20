@@ -1,0 +1,3 @@
+- insert:
+    - id: agent-habits
+      name: '@local/agent-habits'
